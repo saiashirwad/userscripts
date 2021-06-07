@@ -2,7 +2,7 @@
 // @name         Make Whatsapp Web Vimmable Again
 // @namespace    http://tampermonkey.net/
 // @version      0.1
-// @description  try to take over the world!
+// @description  Use Whatsapp Web with Vimium 
 // @author       saiashirwadr@gmail.com
 // @match        https://web.whatsapp.com/
 // @icon         https://www.google.com/s2/favicons?domain=whatsapp.com
